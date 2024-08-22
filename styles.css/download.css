@@ -14,6 +14,10 @@
     .buttons {
         flex-wrap: wrap;
         margin-top: 2rem;
+
+        & img {
+            width: 11.125rem;
+        }
     }
 
     @media(width >= 80em) {
